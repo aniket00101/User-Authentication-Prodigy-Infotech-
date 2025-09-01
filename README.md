@@ -25,21 +25,25 @@ This project is a secure full-stack user authentication system built as part of 
 
 ## ⚙️ How It Works
 
-   🔑 User Registration:-
--    User enters email & password.
--    Password is hashed and stored in database.
+   🔑 User Registration
 
-   🔑 Login:-
--    User logs in with credentials.
--    Server verifies password and generates a JWT/session token.
+- 📧 User enters email & password
+- 🔒 Password is hashed and stored in the database
 
-   🔑 Protected Routes:-
--    Only authenticated users can access certain routes/pages.
+🔑 Login
+- 👤 User logs in with credentials
+- 🛡️ Server verifies password and generates a JWT / session token
 
-   🔑 Logout:-
-- Token/session is destroyed, and user is logged out securely.
+🔑 Protected Routes
+- 🚫❌ Unauthorized users cannot access certain routes/pages
+- ✅ Only authenticated users can access protected routes
+
+🔑 Logout
+- 🔓 Token/session is destroyed
+- 👋 User is logged out securely
 
 ---
 
 <h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
 <h3 align="center" style="color:#e74c3c;">Created By: Aniket</h3>
+
