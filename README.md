@@ -8,6 +8,7 @@ This project is a secure full-stack user authentication system built as part of 
 
 - 📝 User Registration – New users can create an account securely.
 - 🔑 Login Authentication – Existing users can log in using email & password.
+- 📝 Reset Password – Users can reset there accout password securely.
 - 🛡️ Password Hashing – Uses bcrypt/argon2 to securely store passwords.
 - 🔒 JWT Authentication / Session Handling – Secure access to protected routes.
 - 📧 Email Verification (Optional) – Verifies users via email link/OTP.
@@ -46,4 +47,5 @@ This project is a secure full-stack user authentication system built as part of 
 
 <h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
 <h3 align="center" style="color:#e74c3c;">Created By: Aniket</h3>
+
 
