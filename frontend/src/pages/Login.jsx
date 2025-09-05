@@ -90,7 +90,6 @@ const Login = () => {
                                             Forgot Password?
                                         </button>
                                     </div>
-
                                 </div>
                             </div>
                             <div className="p-6 pt-4 flex flex-col gap-4">

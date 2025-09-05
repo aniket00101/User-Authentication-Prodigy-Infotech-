@@ -101,7 +101,7 @@ const Signup = () => {
 
                                 </button>
                                 
-                                <p className="text-xs text-center text-gray-500"> Already have an account? <span className="text-blue-400 hover:text-blue-300 cursor-pointer ml-1 transition-colors">Sign in</span>
+                                <p className="text-xs text-center text-gray-500"> Already have an account? <span className="text-blue-400 hover:text-blue-300 cursor-pointer ml-1 transition-colors"><button onClick={() => navigate("/login")}>Sign in</button></span>
                                 </p>
 
                             </div>
