@@ -20,7 +20,7 @@ This project is a secure full-stack user authentication system built as part of 
 - Frontend: React.js, Tailwind 
 - Backend: Node.js + Express.js 
 - Database: MongoDB 
-- Authentication: JSON Web Tokens (JWT) 
+- Authentication: JSON Web Tokens (JWT) , Nodemailer (Sending Email)
 - Security: Bcrypt (for password hashing), Helmet, CORS
 - Other Tools: Axios , Redux , Context API
 
@@ -47,5 +47,6 @@ This project is a secure full-stack user authentication system built as part of 
 
 <h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
 <h3 align="center" style="color:#e74c3c;">Created By: Aniket</h3>
+
 
 
